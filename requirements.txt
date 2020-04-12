@@ -3,3 +3,4 @@ seaborn
 jupyter
 jupyterlab
 scikit-learn
+keras
